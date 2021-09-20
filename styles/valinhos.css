@@ -99,9 +99,9 @@ header {
 .search button {
     border: none;
     background-color: #d7d7d7;
-    width: 45px;
+    width: 50px;
     border-radius: 5px;
-    padding: 2px;
+    padding: 4px;
 }
 
 .search button:hover {
