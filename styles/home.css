@@ -112,7 +112,9 @@ header {
 /* #endregion */
 
 /* #region SECTION */
-
+#banner {
+    
+}
 /* #endregion */
 
 /* #region FOOTER */
@@ -131,6 +133,11 @@ footer {
 
 .footer-items .items {
     padding: 15px;
+}
+
+.footer-title h3 {
+    font-size: 19px;
+    font-weight: 100;
 }
 
 footer .copyright {
